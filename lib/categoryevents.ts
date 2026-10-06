@@ -1,4 +1,4 @@
-import type { CategoryId } from "@/types";
+import type { CategoryId } from "@/types/categories";
 
 export const CATEGORY_SELECT_EVENT = "siya:select-category";
 
