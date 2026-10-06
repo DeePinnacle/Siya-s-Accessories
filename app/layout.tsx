@@ -113,7 +113,7 @@ export const metadata: Metadata = {
       "Shop trendy and affordable earrings, necklaces, bracelets, rings, watches and hair accessories from Siya's Accessories in Lokoja, Kogi State. Order easily through WhatsApp.",
     images: [
       {
-        url: "/og-image.jpeg",
+        url: "/logo.jpeg",
         width: 1200,
         height: 630,
         alt: "Siya's Accessories - Fashion Jewellery & Accessories",
