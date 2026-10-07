@@ -127,7 +127,7 @@ export const metadata: Metadata = {
     title: "Siya's Accessories | Fashion Jewellery & Accessories",
     description:
       "Trendy and affordable fashion jewellery and accessories in Lokoja, Kogi State. Browse our collection and order conveniently through WhatsApp.",
-    images: ["/og-image.jpg"],
+    images: ["/logo.jpeg"],
   },
 
   icons: {
